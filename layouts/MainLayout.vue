@@ -162,8 +162,7 @@
 								rounded-full
 							"
 						>
-							0
-							<!-- {{ userStore.cart.length }} -->
+							{{ userStore.cart.length }}
 						</span>
 							<div class="min-w-[40px]">
 								<Icon 
